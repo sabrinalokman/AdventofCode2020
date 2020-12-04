@@ -75,5 +75,5 @@ int main() {
 		}
 	}
 			
-	std::cout << "Counter is " << counter <<" and passport is " << passport << "\n";
+	std::cout << counter << " passport's are valid out of " << passport << "\n";
 }
