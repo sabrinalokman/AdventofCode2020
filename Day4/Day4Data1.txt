@@ -1,0 +1,12 @@
+eyr:2030 hgt:163cm iyr:2014
+pid:147768826 ecl:blu byr:1922 hcl:#ceb3a1 cid:169
+
+ecl:blu byr:2002 eyr:2028 pid:998185490 cid:165 iyr:2020
+hgt:188cm hcl:#c0946f
+
+byr:1937 iyr:2017 eyr:2025 byr:1937 iyr:2017 eyr:2025
+byr:1937 eyr:2025
+
+byr:1800 iyr:2017 eyr:2025 byr:1937 iyr:2017 eyr:2025
+byr:1937 iyr:2017
+
