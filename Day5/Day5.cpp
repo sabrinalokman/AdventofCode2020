@@ -35,7 +35,7 @@ int main() {
 			resultRow = front;
 		} else resultRow = back;
 
-		//std::cout << line[6] << "  : [" << resultRow << "]\n";
+	//std::cout << line[6] << "  : [" << resultRow << "]\n";
 
 		for (int i = 7; i < line.size() - 1; i++) {
 			int column = right - left;
@@ -73,3 +73,6 @@ int main() {
 		}
 	}
 }
+
+//Alternative solution to part 1
+//Use one pointer and keep track of step sizes
