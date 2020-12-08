@@ -86,7 +86,7 @@ void numOfChild(vector<tuple<int, string, string>> canContainGold, string str) {
 	}
 }
 
-int recursiveMultip(vector<tuple<int, string, string>> canContainGold, string str; map <string, int> uniqueBag){
+int recursiveMultip(vector<tuple<int, string, string>> canContainGold, string str, map <string, int> uniqueBag){
 	for(auto a : canContainGold) {
 		if(get<2>(a) == str) {
 			for(auto c : uniqueBag) {
