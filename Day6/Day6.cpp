@@ -3,7 +3,7 @@
 #include <string>
 #include <sstream>
 #include <map>
-std::ifstream infile ("Day6Data.txt");
+std::ifstream infile ("Day6Data1.txt");
 
 using namespace std;
 
@@ -31,8 +31,10 @@ int main() {
 				if(i.second == people) {
 					result2++;
 				}
-				// cout << i.first << " " << i.second << " " << count << "\n";
+				cout << i.first << " " << i.second << " " << "\n";
 			}
+
+			cout << people << "\n";
 			uniqQ.clear();
 			people = 0; 
 		}
