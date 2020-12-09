@@ -1,0 +1,9069 @@
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+
+Jump 4
+Current counter 6
+6 <- ctr , tmp -> 2
+
+Add 1
+current counter 7
+7 <- ctr , tmp -> 6
+
+Jump -4
+Current counter 3
+3 <- ctr , tmp -> 7
+
+Overwriting to nop
+0 <- ctr , tmp -> 0
+1 <- ctr , tmp -> 0
+
+Add 1
+current counter 2
+2 <- ctr , tmp -> 1
+3 <- ctr , tmp -> 2
+
+Add 3
+current counter 4
+4 <- ctr , tmp -> 3
+
+Jump -3
+Current counter 1
+1 <- ctr , tmp -> 4
+
+Overwriting to jmp
+^C
+sabrinalokman@SABRINAs-MacBook-Pro Day8 %  
