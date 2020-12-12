@@ -14,11 +14,13 @@ bool isChanged = 0;
 int oldIdx = -1;
 string oldStr;
 int oldVal;
+map<int, int> tracker;
 
 
 
 void accInst(int acc, map<pair<int, bool>, pair<string,int>> &data) {
 	accumulator += acc;
+	tracker[counter] = accumulator;
 	//cout << "\nAdd " << acc << "\n";
 	counter++;
 	//cout << "current counter " << counter << endl;
@@ -30,12 +32,16 @@ void jmpInst(int jmp, map<pair<int, bool>, pair<string,int>> &data) {
 	//cout << "Current counter " << counter << endl;
 }
 
-void print(map<pair<int, bool>, pair<string, int>> &data) {
+void print() {
 	for (auto a : data) {
 		cout << a.first.first << " " << a.first.second << " "
 		<< a.second.first << " " << a.second.second;
-		cout << "\n";
+		
+		cout << "\t "<<tracker[a.first.first];
+		cout<< "\n";
 	}cout << "\n";
+
+
 }
 
 void overwrite(string str, int idx, int val, map<pair<int, bool>, pair<string,int>> &data) {
@@ -58,14 +64,18 @@ void overwrite(string str, int idx, int val, map<pair<int, bool>, pair<string,in
 		oldVal = entryNew->second.second;
 	    data.erase(entryNew);
 	    data.insert({make_pair(idx, 1), make_pair(str, val)});
-		counter = 0;
-		accumulator = 0;
-		isChanged = 0;
+		counter = idx;
 		oldIdx = idx;
+		//accumulator = tracker[idx];
+		while(tracker[idx] == 0) {
+			idx--;
+		}
+
+		accumulator = tracker[idx];
+		cout << counter << " " << accumulator << endl;
+		isChanged = 0;
 		
 	}
-
-
 }
 
 
@@ -104,7 +114,7 @@ int main() {
 			}
 		} 
 		else
-		{	
+		{	print();
 			tmp = counter;
 
 			auto check = data.find(make_pair(counter,0));
@@ -138,7 +148,9 @@ int main() {
 		}	
 	}
 
-
+	// for(auto j : tracker) {
+	// 	cout << j.first << " " << j.second << endl;
+	// }
 
 
 
